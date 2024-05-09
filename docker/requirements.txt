@@ -1,0 +1,5 @@
+streamlit
+pyfacer
+numpy
+opencv-python-headless
+timm
